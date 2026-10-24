@@ -1,0 +1,4 @@
+{
+  "vinhomes-central-park": [{"month":"May","price":101},{"month":"Jun","price":103},{"month":"Jul","price":104},{"month":"Aug","price":107},{"month":"Sep","price":109},{"month":"Oct","price":112}],
+  "vinhomes-grand-park": [{"month":"May","price":58},{"month":"Jun","price":59},{"month":"Jul","price":60},{"month":"Aug","price":60},{"month":"Sep","price":61},{"month":"Oct","price":62}]
+}

@@ -1,0 +1,51 @@
+{
+  "vinhomes-central-park": {
+    "location":"Binh Thanh, Ho Chi Minh City","district":"Binh Thanh","category":"Luxury riverside township","status":"Completed",
+    "description":"A landmark riverside residential development with extensive amenities and access to central Ho Chi Minh City.",
+    "image":"https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":112,"rentPerMonth":22,"sizeRange":"50–150 m²","handover":"2018","amenities":["Landmark 81","Riverside park","Shopping","Schools"],
+    "priceHistory":[{"month":"May","price":101},{"month":"Jun","price":103},{"month":"Jul","price":104},{"month":"Aug","price":107},{"month":"Sep","price":109},{"month":"Oct","price":112}]
+  },
+  "vinhomes-grand-park": {
+    "location":"Thu Duc City, Ho Chi Minh City","district":"Thu Duc","category":"Large-scale township","status":"Established",
+    "description":"A large integrated township with residential towers, green spaces, retail, and community facilities in eastern Ho Chi Minh City.",
+    "image":"https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":62,"rentPerMonth":9.5,"sizeRange":"30–100 m²","handover":"2020 onward","amenities":["Grand Park","Retail","Schools","Sports facilities"],
+    "priceHistory":[{"month":"May","price":58},{"month":"Jun","price":59},{"month":"Jul","price":60},{"month":"Aug","price":60},{"month":"Sep","price":61},{"month":"Oct","price":62}]
+  },
+  "vinhomes-ocean-park": {
+    "location":"Gia Lam, Hanoi","district":"Gia Lam","category":"Integrated township","status":"Established",
+    "description":"A master-planned residential township in the Hanoi metropolitan area.",
+    "image":"https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":58,"rentPerMonth":8.5,"sizeRange":"28–120 m²","handover":"2020 onward","amenities":["Lakeside spaces","Retail","Schools"],
+    "priceHistory":[{"month":"May","price":53},{"month":"Jun","price":54},{"month":"Jul","price":55},{"month":"Aug","price":56},{"month":"Sep","price":57},{"month":"Oct","price":58}]
+  },
+  "vinhomes-smart-city": {
+    "location":"Nam Tu Liem, Hanoi","district":"Nam Tu Liem","category":"Smart urban township","status":"Established",
+    "description":"A large urban development in western Hanoi with apartment communities and shared amenities.",
+    "image":"https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":68,"rentPerMonth":9,"sizeRange":"28–100 m²","handover":"2020 onward","amenities":["Parks","Retail","Schools"],
+    "priceHistory":[{"month":"May","price":62},{"month":"Jun","price":63},{"month":"Jul","price":64},{"month":"Aug","price":65},{"month":"Sep","price":67},{"month":"Oct","price":68}]
+  },
+  "aqua-city": {
+    "location":"Bien Hoa, Dong Nai","district":"Bien Hoa","category":"Eco township","status":"In development — verify current status",
+    "description":"A large-scale planned township east of Ho Chi Minh City. Verify current legal and construction status before investment decisions.",
+    "image":"https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":42,"rentPerMonth":0,"sizeRange":"80–200 m² equivalent","handover":"Project-dependent","amenities":["Planned green spaces","Waterfront setting"],
+    "priceHistory":[{"month":"May","price":43},{"month":"Jun","price":42},{"month":"Jul","price":41},{"month":"Aug","price":41},{"month":"Sep","price":42},{"month":"Oct","price":42}]
+  },
+  "the-grand-manhattan": {
+    "location":"District 1, Ho Chi Minh City","district":"District 1","category":"Central luxury residences","status":"Verify current status",
+    "description":"A central-city residential project. Confirm completion, legal documentation, and current availability with reliable sources.",
+    "image":"https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":180,"rentPerMonth":0,"sizeRange":"Project-dependent","handover":"Verify current status","amenities":["Central location","Urban services"],
+    "priceHistory":[{"month":"May","price":176},{"month":"Jun","price":178},{"month":"Jul","price":177},{"month":"Aug","price":179},{"month":"Sep","price":180},{"month":"Oct","price":180}]
+  },
+  "novaworld-phan-thiet": {
+    "location":"Phan Thiet, Binh Thuan","district":"Phan Thiet","category":"Integrated tourism township","status":"Verify current status",
+    "description":"A large tourism and residential development; property types and returns differ from conventional apartments.",
+    "image":"https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=1600&q=85",
+    "pricePerSqm":38,"rentPerMonth":0,"sizeRange":"Varies by property type","handover":"Project-dependent","amenities":["Leisure facilities","Coastal setting"],
+    "priceHistory":[{"month":"May","price":40},{"month":"Jun","price":39},{"month":"Jul","price":38},{"month":"Aug","price":37},{"month":"Sep","price":38},{"month":"Oct","price":38}]
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "vinhomes",
+    "name": "Vinhomes",
+    "projects": [
+      {"id":"vinhomes-central-park","name":"Vinhomes Central Park"},
+      {"id":"vinhomes-grand-park","name":"Vinhomes Grand Park"},
+      {"id":"vinhomes-ocean-park","name":"Vinhomes Ocean Park"},
+      {"id":"vinhomes-smart-city","name":"Vinhomes Smart City"}
+    ]
+  },
+  {
+    "id": "novaland",
+    "name": "Novaland Group",
+    "projects": [
+      {"id":"aqua-city","name":"Aqua City"},
+      {"id":"the-grand-manhattan","name":"The Grand Manhattan"},
+      {"id":"novaworld-phan-thiet","name":"NovaWorld Phan Thiet"}
+    ]
+  }
+]
